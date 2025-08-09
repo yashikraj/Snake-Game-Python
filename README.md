@@ -18,4 +18,4 @@ Built as part of my Python learning journey.
 ## 🎮 How to Play
 1. **Run the game**  
    ```bash
-   python main.py
+   python Snake Game.py
